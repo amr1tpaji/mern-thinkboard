@@ -78,7 +78,7 @@ if(loading){
 
         <div className="flex items-center justify-between mb-6">
 
-         <Link to="/notes" className="btn btn-ghost">
+         <Link to="/" className="btn btn-ghost">
            <ArrowLeftIcon className="size-5" />
            Back To Notes
           </Link>
